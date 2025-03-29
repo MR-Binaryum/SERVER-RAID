@@ -37,27 +37,17 @@ Please note that there are other security measures, such as 403/401 codes and WA
 
 ####knowledge required to understand and manipulate the tool####
 
-Python3 coding structures (loops,variables,functions,libs,arrays and the others...).
-
-HTML/CSS coding.
-
-HTTP Methods.
-
-Server Code answers.
-
-DNS hierarchical structure and theory.
-
-Some security measures on web applications (DNSSEC,WAF,IP blockers and blacklists IPs).
-
-Reconnaissance attacks and their types.
-
-The use of commands and libraries.
-
-Ports,Certificates,Protocols(HTTP/HTTPS/IP/SMTP/IMAP/WEBSOCKET/ICMP/DNS).
-
-APIs of Navigation if you want to spoof youre own data (OS,User-Agent,GPS,Timezone and others...)
-
-The use of online robots and robots.txt file.
+- Python3 coding structures (loops,variables,functions,libs,arrays and the others...).
+- HTML/CSS coding.
+- HTTP Methods.
+- Server Code answers.
+- DNS hierarchical structure and theory.
+- Some security measures on web applications (DNSSEC,WAF,IP blockers and blacklists IPs).
+- Reconnaissance attacks and their types.
+- The use of commands and libraries.
+- Ports,Certificates,Protocols(HTTP/HTTPS/IP/SMTP/IMAP/WEBSOCKET/ICMP/DNS).
+- APIs of Navigation if you want to spoof youre own data (OS,User-Agent,GPS,Timezone and others...)
+- The use of online robots and robots.txt file.
 
 ####Explanation of attacks that appears on the tool####
 
